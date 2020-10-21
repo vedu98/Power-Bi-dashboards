@@ -1,19 +1,29 @@
-- Summary of all the business unit and their performance.
-- Show the sales by State
-- Sales & Gross Margin by financial Year quaters
-- Sales by Chain
-- How diff state are performing through map
-- Sales by catagory and chain  
+
+Create the following measures from the mention data set.
+
+*****Key Measures********
+- Total Sales
+- Total Quantity
+- Toatal Profit
+- Profit %
+- Matric Selected
+*****Time Comparison******
+- Performance LY
+- Performance vs LY
+- Sales 2yrs ago
+****Cumulative Measures*******
+- Cumulative Performance
+- Cumulative Performance LY
+
+*******Moving Averages********
+- Profits 30D MA
+- Sales 30D MA
+- Transactions 30D MA
 
 
-******************************************************
-
-Charts Prepared in Dashboard
-
-- KPI 
-- Clustered Bar Graph
-- Pie Chart
-- Horizental Clustered bar Graph
-- Geo Map
-- Bubble Chart with play axis
-- Slicer
+- Create a Date Table
+- Create a Quarter Slicer
+- Create 3 cards with line chart showing the Total Sales, Profit and % Profit.
+- Show the sales Comparesion between Cumulative Performance vs Cumulative Performance LY using a area chart.
+- Show the top 7 products using a stacked bar chart
+- Performace sales per city using a stacked bar chart
